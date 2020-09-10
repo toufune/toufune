@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!!
+I like smartphone and computer.
+I want to make a custom ROM for Android.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=toufune&show_icons=true&theme=synthwave)](https://github.com/toufune)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toufune)](https://github.com/toufune)
