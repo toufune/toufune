@@ -8,8 +8,8 @@ I want to make a custom ROM for Android.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toufune)](https://github.com/toufune)
 
 ### SNS
-[![Twitter Follow](https://img.shields.io/twitter/follow/toufu14271?style=social)](https://twitter.com/toufu14271?s=09)
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/toufu14271?style=social)](https://twitter.com/toufu14271?s=09)  
+[![Github Follow](https://img.shields.io/github/followers/toufune?style=social)](https://github.com/toufune/)
 <!--
 **toufune/toufune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
