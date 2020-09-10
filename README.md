@@ -7,6 +7,9 @@ I want to make a custom ROM for Android.
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=toufune&show_icons=true&theme=synthwave)](https://github.com/toufune)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toufune)](https://github.com/toufune)
 
+### SNS
+[!(https://img.shields.io/twitter/follow/toufu14271?style=social)]
+
 <!--
 **toufune/toufune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
