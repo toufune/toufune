@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=toufune&show_icons=true&theme=synthwave)](https://github.com/toufune)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toufune)](https://github.com/toufune)
 
 <!--
 **toufune/toufune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
