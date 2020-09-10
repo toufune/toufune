@@ -1,6 +1,6 @@
 ### Hello!!
 ---
-Japanese student  
+Japanese student.  
 I like smartphone and computer.  
 I want to make a custom ROM for Android.  
 
