@@ -1,9 +1,9 @@
 ### Hello there👋
 ---
-I build a custom ROM for Android.  
+I love AOSP!!
 
 ### SNS
-[![Twitter Follow](https://img.shields.io/twitter/follow/toufu14271?style=social)](https://twitter.com/toufu14271?s=09)  
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/toufu14271)   
 [![Github Follow](https://img.shields.io/github/followers/toufune?style=social)](https://github.com/toufune/)  
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/link/Toufu14721?style=social)](https://www.reddit.com/user/Toufu14721/)   
 
